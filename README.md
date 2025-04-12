@@ -48,6 +48,6 @@ A state of mind. A promise. A quiet glow in the dark.
 
 ## Repos
 
-- Dotfiles - macOS configuration files
-- Seeds - Templates for Docker Containers or scripts for linux
-- Puzzle-Pieces - Collection of commands for diverse tools and systems
+- Dotfiles(later) - macOS configuration files
+- Seeds (later) - Templates for Docker Containers or bash-scripts
+- [Puzzle-Pieces](https://github.com/DaddioTime/cheat-sheets) – Collection of commands for diverse tools and systems

@@ -44,5 +44,5 @@ Ein Zustand. Ein Versprechen. Ein leises Glühen im Dunkeln.
 ## Repositories
 
 - Dotfiles – Konfigurationsdateien für macOS
-- Seeds – Vorlagen für Docker-Container oder Skripte für Linux  
-- Puzzle-Pieces – Sammlung von Befehlen für verschiedene Tools und Systeme
+- Seeds – Vorlagen für Docker-Container oder Bash-Skrips  
+- [Puzzle-Pieces](https://github.com/DaddioTime/cheat-sheets) – Sammlung von Befehlen für verschiedene Tools und Systeme
